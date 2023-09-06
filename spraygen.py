@@ -26,27 +26,26 @@ isQuick = False
 
 # Months list
 months = [
-"January",
-"February",
-"March",
-"April",
-"May",
-"June",
-"July",
-"August",
-"September",
-"October",
-"November",
-"December"
+"Leden",
+"Unor",
+"Brezen",
+"Duben",
+"Kveten",
+"Cerven",
+"Cervenec",
+"Srpen",
+"Zari",
+"Rijen",
+"Listopad",
+"Prosinec"
 ]
 
 # Seasons list
 seasons = [
-    "Fall",
-    "Autumn",
-    "Winter",
-    "Spring",
-    "Summer"
+    "Jar",
+    "Leto",
+    "Jesen",
+    "Zima"
 ]
 
 
@@ -77,199 +76,42 @@ common_separators = [
 
 # NFL Teams list
 nfl_teams = [
-    "Cardinals",
-    "Falcons",
-    "Ravens",
-    "Bills",
-    "Panthers",
-    "Bears",
-    "Bengals",
-    "Browns",
-    "Cowboys",
-    "Broncos",
-    "Lions",
-    "Packers",
-    "Texans",
-    "Colts",
-    "Jaguars",
-    "Chiefs",
-    "Chargers",
-    "Rams",
-    "Dolphins",
-    "Vikings",
-    "Patriots",
-    "Saints",
-    "Giants",
-    "Jets",
-    "Raiders",
-    "Eagles",
-    "Steelers",
-    "49ers",
-    "Seahawks",
-    "Buccaneers",
-    "Titans",
-    "Redskins"
+    
 ]
 
 # NBA Teams list
 nba_teams = [
-    "Hawks",
-    "Celtics",
-    "Nets",
-    "Hornets",
-    "Bulls",
-    "Cavaliers",
-    "Mavericks",
-    "Nuggets",
-    "Pistons",
-    "Warriors",
-    "Rockets",
-    "Pacers",
-    "Clippers",
-    "Lakers",
-    "Grizzlies",
-    "Heat",
-    "Bucks",
-    "Timberwolves",
-    "Pelicans",
-    "Knicks",
-    "Thunder",
-    "Magic",
-    "76ers",
-    "Suns",
-    "Blazers",
-    "Kings",
-    "Spurs",
-    "Raptors",
-    "Jazz",
-    "Wizards"
+    
 ]
 
 # MLB Teams list
 mlb_teams = [
-    "Diamondbacks",
-    "Braves",
-    "Orioles",
-    "RedSox",
-    "Cubs",
-    "WhiteSox",
-    "Reds",
-    "Indians",
-    "Rockies",
-    "Tigers",
-    "Astros",
-    "Royals",
-    "Angels",
-    "Dodgers",
-    "Marlins",
-    "Brewers",
-    "Twins",
-    "Mets",
-    "Yankees",
-    "Athletics",
-    "Phillies",
-    "Pirates",
-    "Padres",
-    "Giants",
-    "Mariners",
-    "Cardinals",
-    "Rays",
-    "Rangers",
-    "Jays",
-    "Nationals"
+
 ]
 
 # NHL Teams list
 nhl_teams = [
-    "Ducks",
-    "Bruins",
-    "Sabres",
-    "Flames",
-    "Hurricanes",
-    "Blackhawks",
-    "Avalanche",
-    "BLUEJackets",
-    "Stars",
-    "RedWings",
-    "Oilers",
-    "Panthers",
-    "Kings",
-    "Wild",
-    "Canadiens",
-    "Predators",
-    "Devils",
-    "Islanders",
-    "Rangers",
-    "Senators",
-    "Flyers",
-    "Coyotes",
-    "Penguins",
-    "BLUEs",
-    "Sharks",
-    "Lighting",
-    "Leafs",
-    "Canucks",
-    "GoldenKnights",
-    "Capitals",
-    "Jets"
+    
 ]
 
 # Common super bowl scores list
 superbowl_scores = [
-    "35",
-    "33",
-    "16",
-    "23",
-    "24",
-    "14",
-    "21",
-    "32",
-    "27",
-    "31",
-    "26",
-    "38",
-    "46",
-    "39",
-    "42",
-    "20",
-    "55",
-    "52",
-    "30",
-    "49",
-    "34",
-    "48",
-    "29",
-    "17",
-    "43",
-    "41"
+   
 ]
 
 # Common nba finals scores list
 nbafinals_scores = [
-    "4"
+ 
 ]
 
 # Common world series scores list
 worldseries_scores = [
-    "4",
-    "5"
+    
 ]
 
 # Common stanley cup scores list
 stanleycup_scores = [
-    "3",
-    "5",
-    "2",
-    "6",
-    "15",
-    "4",
-    "9",
-    "10",
-    "12",
-    "17",
-    "22",
-    "20",
-    "21"
+
 ]
 
 # Common permutations of "password" list
@@ -286,16 +128,13 @@ password_permutations = [
 # Common misc passwords
 common_words = {
     "Welcome",
-    "Baseball",
     "Football",
     "Letmein",
     "Access",
     "Superman",
     "Batman",
     "Qwertyuiop",
-    "Qwerty",
-    "Jesus",
-    "Coronavirus"
+    "Qwerty"
 } 
 
 # Global keyspace for random strings
